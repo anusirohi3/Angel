@@ -1,4 +1,4 @@
-package com.example.anusirohi.mawanaautomation.model
+package app.com.angel.model
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

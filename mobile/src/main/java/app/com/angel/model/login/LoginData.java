@@ -1,4 +1,4 @@
-package com.example.anusirohi.mawanaautomation.model.login;
+package app.com.angel.model.login;
 
 public class LoginData {
 

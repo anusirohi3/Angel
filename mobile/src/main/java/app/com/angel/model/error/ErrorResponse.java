@@ -1,4 +1,4 @@
-package com.example.anusirohi.mawanaautomation.model.error;
+package app.com.angel.model.error;
 
 public class ErrorResponse {
     private String errorMessage;

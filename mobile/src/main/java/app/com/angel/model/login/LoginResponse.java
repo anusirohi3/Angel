@@ -1,6 +1,6 @@
-package com.example.anusirohi.mawanaautomation.model.login;
+package app.com.angel.model.login;
 
-import com.example.anusirohi.mawanaautomation.model.error.ErrorResponse;
+import app.com.angel.model.error.ErrorResponse;
 
 public class LoginResponse {
 
